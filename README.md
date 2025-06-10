@@ -10,7 +10,7 @@ This project is a simple, beautiful project demonstrating basic HTML and CSS. it
 To view this project on your device
 **Clone to repository:**
 '''bash
-gitclone[https://github.com/panther 123-git/PROJECT-FUTURE-TECH.git](https://github.com/panther 123-git/PROJECT-FUTURE-TECH.git).
+gitclone[https://github.com/panther123-git/PROJECT-FUTURE-TECH.git](https://github.com/panther123-git/PROJECT-FUTURE-TECH.git).
 '''
 **Navigate to the project directory:**
 '''bash
